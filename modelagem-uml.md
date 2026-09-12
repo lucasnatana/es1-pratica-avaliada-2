@@ -155,4 +155,3 @@ flowchart TD
 
     K -- Não --> O([Sem multa e sem notificação])
 ```
-```
