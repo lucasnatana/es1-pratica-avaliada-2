@@ -33,6 +33,7 @@ Regras de negócio:
 | 203 | Após a devolução do livro, o primeiro da fila de reservas será notificado por email |
 | 204 | Para renovar o empréstimo, não pode haver reserva daquele livro |
 | 205 | Quando atrasar, o leitor terá multa de R$ 2,00 por dia |
+
 -------------------------------------------------------------------------------------------------------------------------
 
 Resposta da letra B:
@@ -49,6 +50,7 @@ Deve conter título, autor, ISBN, categoria e quantidade de exemplares.
 O livro deve ficar salvo no acervo.
 
 Story Points: 3 
+
 -------------------------------------------------------------------
 User story 2:
 
@@ -62,6 +64,7 @@ Deve informar nome, CPF, email, telefone, endereço.
 Seus dados precisam ficar salvos no sistema.
 
 Story Points: 3
+
 --------------------------------------------------------------------
 User story 3:
 
@@ -75,6 +78,7 @@ Vincular o empréstimo do livro a um leitor.
 Registrar a data do empréstimo e a de devolução
 
 Story Points: 5
+
 --------------------------------------------------------------------
 User story 4:
 
@@ -88,6 +92,7 @@ Exibir a quantidade total de exemplares cadastrados.
 Exibir a quantidade disponível para empréstimo.
 
 Story Points: 3
+
 --------------------------------------------------------------------
 User story 5:
 
@@ -101,6 +106,7 @@ Permitir a reserva quando não houver exemplar disponível.
 Inserir o leitor na fila.
 
 Story Points: 5
+
 ---------------------------------------------------------------------
 User story 6: 
 
